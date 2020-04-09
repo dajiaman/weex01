@@ -1,4 +1,40 @@
-/node_modules
-/dist/
+# Created by .ignore support plugin (hsz.mobi)
+*.iml
+.project
+.settings/
+
+# logs
+*.log
 .idea
-.temp
+npm-debug.log*
+
+# dependencies
+/node_modules
+
+# cache files
+.DS_Store
+.npm
+
+# middle compile files
+/src/sprites/*
+
+# build results
+#/pub/
+#/entry/
+
+# local configs
+lauch.json
+.vscode
+
+
+#nei
+/mock/
+#/plugins/*
+#/platforms/*
+/dist/
+/.temp/
+assets/tools/
+
+package-lock.json
+/.temp/
+/.temp/
